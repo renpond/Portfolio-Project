@@ -72,8 +72,14 @@ p {
 .content h3 {
   font-family: var(--default-font-family);
   line-height: 1.5;
-  margin: 20px 0 0;
   font-size: 24px;
+}
+
+.content h4 {
+  font-family: var(--default-font-family);
+  line-height: 1.5;
+  font-size: 24px;
+  text-align: center;
 }
 .content p {
   font-size: 14px;
